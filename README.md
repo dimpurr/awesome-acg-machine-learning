@@ -1,15 +1,16 @@
-
 # Awesome ACG Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master)
 
 A curated list of awesome machine learning resources related to anime, manga and so on.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master#contribution-guidelines) first.
+Sharing, suggestions and contributions are always welcome. Please take a look at the [Contribution Guidelines](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master#contribution-guidelines) first.
+
+Also you can take a look at some realted [news reports & blog posts](https://github.com/dimpurr/awesome-acg-machine-learning/blob/master/README.md) for reference.
 
 ## Commissions & Groups
 
 - MANPU - International Workshop on coMics ANalysis, Processing and Understanding
 	- [MANPU 2016](http://manpu2016.imlab.jp/)
-	    - Publications: [Proceedings of the 1st International Workshop on coMics ANalysis, Processing and Understanding](https://dl.acm.org/citation.cfm?id=3011549&preflayout=flat)
+		- Publications: [Proceedings of the 1st International Workshop on coMics ANalysis, Processing and Understanding](https://dl.acm.org/citation.cfm?id=3011549&preflayout=flat)
 	- [MANPU 2017](http://manpu2017.imlab.jp/)
 - [SIG2D](http://sig2d.org/) - SIG2D (Special Interest Group on 2D Information Processing; しぐつーでぃー) は，二次元情報処理に強い興味を持つ研究者・技術者によるグループである
 	- Publications: [Publications - SIG2D](http://sig2d.org/publications/)
@@ -54,11 +55,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ### Recommender System
 
--  [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf)
+- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf)
 
 ## Contribution Guidelines
 
-- For `Network Implementations` , use the following format:  `- [project-name](http://github-or-project-homepage.com) - Description.`
-- For `Papers` , use the following format: `- [paper-title, *published-in-(optional)*](http://paper-pdf-direct-link-(perferred)-or-library-page) - Description & project related (optional).`
+- For `Network Implementations` , use the following format:  `- [project-name](http://github-or-project-homepage.com) - Description`
+- For `Papers` , use the following format: `- [paper-title, *published-in-(optional)*](http://paper-pdf-direct-link-(perferred)-or-library-page) - Description & project related (optional)`
 - Follow the original capitalization of the name of the project (no need to covert letter case)
-- Descriptions begin with a capital letter, and no need to end with a period.
+- Descriptions begin with a capital letter, and no need to end with a period
