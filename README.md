@@ -17,6 +17,18 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 - [Click Beetles](http://clickbeetles.sakura.ne.jp) - Click Beetlesは、エロゲーと人工知能の研究を行う同人サークルです
 	- Publications: [発行物一覧 - クリックビートルズ](http://clickbeetles.sakura.ne.jp/service.html)
 
+## Datasets
+
+### Image Processing & Recognization & Tagging
+
+- [DANBOORU2017](https://www.gwern.net/Danbooru2017) - A Large-scale crowsourced and tagged anime illustration dataset
+- [anime_faces (scrapy)](https://github.com/shaform/GirlsManifold/tree/master/anime_faces) - The scrapy script for processing anime characters faces
+
+### Comics
+
+- [eBDtheque](http://ebdtheque.univ-lr.fr/) - 100 images with ground truth for panels, speech balloons, tails, text lines, leading characters
+- [Manga109](http://www.manga109.org/index_en.php) - Over 20 thousand images of 109 volumes (21,142 images)
+
 ## Projects
 
 - [Awesome ACG/Image Processing](https://github.com/soruly/awesome-acg/blob/master/README.md#image-processing)
