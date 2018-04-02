@@ -49,6 +49,7 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 - [Text-aware balloon extraction from manga](https://dl.acm.org/citation.cfm?id=2913253) *The Visual Computer: International Journal of Computer Graphics archive, Volume 32 Issue 4, April 2016, Pages 501-511* - Related to [moeka.me/mangaEditor](https://moeka.me/mangaEditor/)
 - [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document)
+- [Object Detection for Comics using Manga109 Annotations](https://arxiv.org/abs/1803.08670)
 
 ### Anime & Animation
 
