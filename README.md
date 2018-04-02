@@ -38,28 +38,29 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Image Recognization
 
+- [Manga FaceNet: Face Detection in Manga based on Deep Neural Network](https://www.cs.ccu.edu.tw/~wtchu/papers/2017ICMR-chu2.pdf) *ICMR '17 Proceedings of the 2017 ACM on International Conference on Multimedia Retrieva*
+
 ### Image Processing
 
-- [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](https://arxiv.org/abs/1708.05509) - Related to [make.girls.moe](http://make.girls.moe)
-- [Closure-aware Sketch Simplification, *ACM Transactions on Graphics (SIGGRAPH Asia 2015 issue), Vol. 34, No. 6, November 2015, pp. 168:1-168:10.*](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html)
+- [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](https://arxiv.org/abs/1708.05509) *Doujinshi in Comiket 92, summer 2017, with the booth number 05a, East-U, Third Day* - Related to [make.girls.moe](http://make.girls.moe)
+- [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) *ACM Transactions on Graphics (SIGGRAPH Asia 2015 issue), Vol. 34, No. 6, November 2015, pp. 168:1-168:10.*
 
-### Multi-page Manga & Comic
+### Multi-page Manga & Comic Analyze
 
-- [Text-aware balloon extraction from manga](https://dl.acm.org/citation.cfm?id=2913253) - Related to  [moeka.me/mangaEditor](https://moeka.me/mangaEditor/)
--   [Manga FaceNet: Face Detection in Manga based on Deep Neural Network](https://www.cs.ccu.edu.tw/~wtchu/papers/2017ICMR-chu2.pdf)
--  [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document)
+- [Text-aware balloon extraction from manga](https://dl.acm.org/citation.cfm?id=2913253) *The Visual Computer: International Journal of Computer Graphics archive, Volume 32 Issue 4, April 2016, Pages 501-511* - Related to [moeka.me/mangaEditor](https://moeka.me/mangaEditor/)
+- [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document)
 
 ### Anime & Animation
 
-- [Stereoscopizing Cel Animations, *ACM Transactions on Graphics (SIGGRAPH Asia 2013 issue), Vol. 32, No. 6, November 2013, pp. 223:1-223:10.*](http://www.cse.cuhk.edu.hk/~ttwong/papers/3dcel/3dcel.html)
+- [Stereoscopizing Cel Animations](http://www.cse.cuhk.edu.hk/~ttwong/papers/3dcel/3dcel.html) *ACM Transactions on Graphics (SIGGRAPH Asia 2013 issue), Vol. 32, No. 6, November 2013, pp. 223:1-223:10.*
 
 ### Recommender System
 
-- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf)
+- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf) *MANPU 2017 workshop, co-located with ICDAR 2017 in Kyoto on November 10, 2017*
 
 ## Contribution Guidelines
 
 - For `Network Implementations` , use the following format:  `- [project-name](http://github-or-project-homepage.com) - Description`
-- For `Papers` , use the following format: `- [paper-title, *published-in-(optional)*](http://paper-pdf-direct-link-(perferred)-or-library-page) - Description & project related (optional)`
+- For `Papers` , use the following format: `- [paper-title](http://paper-pdf-direct-link-(perferred)-or-library-page) *published-in-(optional)* - Description & project related (optional)`
 - Follow the original capitalization of the name of the project (no need to covert letter case)
 - Descriptions begin with a capital letter, and no need to end with a period
