@@ -1,22 +1,25 @@
+
 # Awesome ACG Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master)
 
 A curated list of awesome machine learning resources related to anime, manga and so on.
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master#contribution-guidelines) first.
 
-## Commission
+## Commissions & Groups
 
-- MANPU
-	-  [MANPU 2016](http://manpu2016.imlab.jp/)
-	    -   Publications: [Proceedings of the 1st International Workshop on coMics ANalysis, Processing and Understanding](https://dl.acm.org/citation.cfm?id=3011549&preflayout=flat)
-	-   [MANPU 2017](http://manpu2017.imlab.jp/)
--   [SIG2D](http://sig2d.org/)
-    -   Publications: [Publications - SIG2D](http://sig2d.org/publications/)
+- MANPU - International Workshop on coMics ANalysis, Processing and Understanding
+	- [MANPU 2016](http://manpu2016.imlab.jp/)
+	    - Publications: [Proceedings of the 1st International Workshop on coMics ANalysis, Processing and Understanding](https://dl.acm.org/citation.cfm?id=3011549&preflayout=flat)
+	- [MANPU 2017](http://manpu2017.imlab.jp/)
+- [SIG2D](http://sig2d.org/) - SIG2D (Special Interest Group on 2D Information Processing; しぐつーでぃー) は，二次元情報処理に強い興味を持つ研究者・技術者によるグループである
+	- Publications: [Publications - SIG2D](http://sig2d.org/publications/)
+- [Click Beetles](http://clickbeetles.sakura.ne.jp) - Click Beetlesは、エロゲーと人工知能の研究を行う同人サークルです
+	- Publications: [発行物一覧 - クリックビートルズ](http://clickbeetles.sakura.ne.jp/service.html)
 
 ## Projects
 
--   [Awesome ACG/Image Processing](https://github.com/soruly/awesome-acg/blob/master/README.md#image-processing)
--   [Awesome ACG/Image Recognition](https://github.com/soruly/awesome-acg/blob/master/README.md#image-recognition)
+- [Awesome ACG/Image Processing](https://github.com/soruly/awesome-acg/blob/master/README.md#image-processing)
+- [Awesome ACG/Image Recognition](https://github.com/soruly/awesome-acg/blob/master/README.md#image-recognition)
 
 ## Network Implementations
 
