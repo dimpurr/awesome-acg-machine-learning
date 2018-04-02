@@ -23,11 +23,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ### TensorFlow
 
 - [Tensorflow-ACGAN-Anime-Generation](https://github.com/ctwxdd/Tensorflow-ACGAN-Anime-Generation) - Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks" which related to [make.girls.moe](http://make.girls.moe)
-- [IllustrationGAN](https://github.com/tdrussell/IllustrationGAN) - A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations.
+- [IllustrationGAN](https://github.com/tdrussell/IllustrationGAN) - A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations
 
 ### PyTorch
 
-- [animeGAN](https://github.com/jayleicn/animeGAN) - A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing.
+- [animeGAN](https://github.com/jayleicn/animeGAN) - A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing
 - [GirlsManifold](https://github.com/shaform/GirlsManifold) - An attempt to replicate [make.girls.moe](http://make.girls.moe) using PyTorch
 
 ## Papers
@@ -57,4 +57,5 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - For `Network Implementations` , use the following format:  `- [project-name](http://github-or-project-homepage.com) - Description.`
 - For `Papers` , use the following format: `- [paper-title, *published-in-(optional)*](http://paper-pdf-direct-link-(perferred)-or-library-page) - Description & project related (optional).`
-- Follow the original capitalization of the name of the project (no need to covert letter case).
+- Follow the original capitalization of the name of the project (no need to covert letter case)
+- Descriptions begin with a capital letter, and no need to end with a period.
