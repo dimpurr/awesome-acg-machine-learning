@@ -1,3 +1,9 @@
+# Awesome ACG Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master)
+
+A curated list of awesome machine learning resources related to anime, manga and so on.
+
+Sharing, suggestions and contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master#contribution-guidelines) first.
+
 ## Commission
 
 - MANPU
