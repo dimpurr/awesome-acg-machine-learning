@@ -1,6 +1,6 @@
 Only for reference.
 
-## New Reports
+## News Reports
 
 ### zh-hans
 
@@ -17,3 +17,8 @@ Only for reference.
 ### ja-jp
 
 - [あの人の研究所](http://archive.fo/bFI3j#selection-17.0-20.0)
+
+## Discussions
+
+- [The Training dataset · Issue #11 · makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web/issues/11)
+- [training datasets · Issue #5 · lllyasviel/style2paints](https://github.com/lllyasviel/style2paints/issues/5)
