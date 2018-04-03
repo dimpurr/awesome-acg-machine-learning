@@ -50,8 +50,9 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Image Recognization
 
-- [Pose estimation of anime/manga characters: a case for synthetic data](https://dl.acm.org/citation.cfm?id=3011552) *MANPU '16 Workshop*
+- [Face Detection and Face Recognition of Cartoon Characters Using Feature Extraction](http://www.iieej.org/trans/IEVC/IEVC2012/PDF/4B-1.pdf) *Proceedings of IIEEJ Image Electronics and Visual Computing Workshop*
 - [Manga FaceNet: Face Detection in Manga based on Deep Neural Network](https://www.cs.ccu.edu.tw/~wtchu/papers/2017ICMR-chu2.pdf) *ICMR '17 Proceedings of the 2017 ACM on International Conference on Multimedia Retrieva*
+- [Pose estimation of anime/manga characters: a case for synthetic data](https://dl.acm.org/citation.cfm?id=3011552) *MANPU '16 Workshop*
 
 ### Image Processing
 
@@ -68,9 +69,11 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 - [Detection of comic books twin pages with a non-overlapping stitching method](https://dl.acm.org/citation.cfm?id=3011550) *MANPU '16 Workshop*
 - [Emotional arousal estimation while reading comics based on physiological signal analysis](https://dl.acm.org/citation.cfm?id=3011556) *MANPU '16 Workshop*
 - [Estimation of structure of four-scene comics by convolutional neural networks](https://dl.acm.org/citation.cfm?id=3011558) *MANPU '16 Workshop*
+- [Face Detection for Comic Images with Deformable Part Model](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2014IEVC_yanagisawa.pdf) *The Fourth IIEEJ International Workshop on Image Electronics and Visual Computing*
 - [Manga content analysis using physiological signals](https://dl.acm.org/citation.cfm?id=3011555) *MANPU '16 Workshop*
 - [Manga generator, a future of interactive manga media: invited talk paper](https://dl.acm.org/citation.cfm?id=3015156) *MANPU '16 Workshop*
 - [Manga109 dataset and creation of metadata](https://dl.acm.org/citation.cfm?id=3011551) *MANPU '16 Workshop*
+- [Line-Based Drawing Style Description for Manga Classification](https://www.cs.ccu.edu.tw/~wtchu/papers/2014MM-chu.pdf) *Proceedings of ACM International Conference on Multimedia. 781–784*
 - [Object Detection for Comics using Manga109 Annotations](https://arxiv.org/abs/1803.08670) *Arxiv*
 - [Retrieval of comic book images using context relevance information](https://dl.acm.org/citation.cfm?id=3011561) *MANPU '16 Workshop*
 - [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document) *Université de La Rochelle*
