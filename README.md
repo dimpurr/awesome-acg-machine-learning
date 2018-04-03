@@ -1,4 +1,3 @@
-
 # Awesome ACG Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master)
 
 A curated list of awesome machine learning resources related to anime, manga and so on.
@@ -62,6 +61,7 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Multi-page Manga & Comic Analyze
 
+- [A Study on Object Detection Method from Manga Images using CNN](http://www.iwait2018.org/Paper%20IWAIT2018/IWAIT2018_paper_016.pdf) *International Workshop on Advanced Image Technology 2018 (IWAIT 2018)*
 - [Comics image processing: learning to segment text](https://dl.acm.org/citation.cfm?id=3011560) *MANPU '16 Workshop*
 - [Comic visualization on smartphones based on eye tracking](https://dl.acm.org/citation.cfm?id=3011553) *MANPU '16 Workshop*
 - [Designing a question-answering system for comic contents](https://dl.acm.org/citation.cfm?id=3011554) *MANPU '16 Workshop*
@@ -71,9 +71,10 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 - [Manga content analysis using physiological signals](https://dl.acm.org/citation.cfm?id=3011555) *MANPU '16 Workshop*
 - [Manga generator, a future of interactive manga media: invited talk paper](https://dl.acm.org/citation.cfm?id=3015156) *MANPU '16 Workshop*
 - [Manga109 dataset and creation of metadata](https://dl.acm.org/citation.cfm?id=3011551) *MANPU '16 Workshop*
-- [Object Detection for Comics using Manga109 Annotations](https://arxiv.org/abs/1803.08670)
+- [Object Detection for Comics using Manga109 Annotations](https://arxiv.org/abs/1803.08670) *Arxiv*
 - [Retrieval of comic book images using context relevance information](https://dl.acm.org/citation.cfm?id=3011561) *MANPU '16 Workshop*
-- [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document)
+- [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document) *Université de La Rochelle*
+- [Sketch-based manga retrieval using manga109 dataset](https://link.springer.com/article/10.1007/s11042-016-4020-z) *Multimedia Tools and Applications October 2017, Volume 76, Issue 20, pp 21811–21838*
 - [Text-aware balloon extraction from manga](https://dl.acm.org/citation.cfm?id=2913253) *The Visual Computer: International Journal of Computer Graphics archive, Volume 32 Issue 4, April 2016, Pages 501-511* - Related to [moeka.me/mangaEditor](https://moeka.me/mangaEditor/)
 - [Toward speech text recognition for comic books](https://dl.acm.org/citation.cfm?id=3011557) *MANPU '16 Workshop*
 
