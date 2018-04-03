@@ -18,6 +18,10 @@ Only for reference.
 
 - [あの人の研究所](http://archive.fo/bFI3j#selection-17.0-20.0)
 
+### en-us
+
+- [Face Detection and Face Recognition of Human-like Characters in Comics]() - Student Final Year Project at City University of Hong Kong, Department of Computer Science
+
 ## Discussions
 
 - [The Training dataset · Issue #11 · makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web/issues/11)
