@@ -1,3 +1,4 @@
+
 # Awesome ACG Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master)
 
 A curated list of awesome machine learning resources related to anime, manga and so on.
@@ -21,8 +22,8 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Image Processing & Recognization & Tagging
 
-- [DANBOORU2017](https://www.gwern.net/Danbooru2017) - A Large-scale crowsourced and tagged anime illustration dataset
 - [anime_faces (scrapy)](https://github.com/shaform/GirlsManifold/tree/master/anime_faces) - The scrapy script for processing anime characters faces
+- [DANBOORU2017](https://www.gwern.net/Danbooru2017) - A Large-scale crowsourced and tagged anime illustration dataset
 
 ### Comics
 
@@ -38,8 +39,8 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### TensorFlow
 
-- [Tensorflow-ACGAN-Anime-Generation](https://github.com/ctwxdd/Tensorflow-ACGAN-Anime-Generation) - Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks" which related to [make.girls.moe](http://make.girls.moe)
 - [IllustrationGAN](https://github.com/tdrussell/IllustrationGAN) - A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations
+- [Tensorflow-ACGAN-Anime-Generation](https://github.com/ctwxdd/Tensorflow-ACGAN-Anime-Generation) - Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks" which related to [make.girls.moe](http://make.girls.moe)
 
 ### PyTorch
 
@@ -50,18 +51,31 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Image Recognization
 
+- [Pose estimation of anime/manga characters: a case for synthetic data](https://dl.acm.org/citation.cfm?id=3011552) *MANPU '16 Workshop*
 - [Manga FaceNet: Face Detection in Manga based on Deep Neural Network](https://www.cs.ccu.edu.tw/~wtchu/papers/2017ICMR-chu2.pdf) *ICMR '17 Proceedings of the 2017 ACM on International Conference on Multimedia Retrieva*
 
 ### Image Processing
 
-- [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](https://arxiv.org/abs/1708.05509) *Doujinshi in Comiket 92, summer 2017, with the booth number 05a, East-U, Third Day* - Related to [make.girls.moe](http://make.girls.moe)
+- [A sustainable practice method of hand-drawing by merging user's stroke and model's stroke](https://dl.acm.org/citation.cfm?id=3011559) *MANPU '16 Workshop*
 - [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) *ACM Transactions on Graphics (SIGGRAPH Asia 2015 issue), Vol. 34, No. 6, November 2015, pp. 168:1-168:10.*
+- [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](https://arxiv.org/abs/1708.05509) *Doujinshi in Comiket 92, summer 2017, with the booth number 05a, East-U, Third Day* - Related to [make.girls.moe](http://make.girls.moe)
 
 ### Multi-page Manga & Comic Analyze
 
-- [Text-aware balloon extraction from manga](https://dl.acm.org/citation.cfm?id=2913253) *The Visual Computer: International Journal of Computer Graphics archive, Volume 32 Issue 4, April 2016, Pages 501-511* - Related to [moeka.me/mangaEditor](https://moeka.me/mangaEditor/)
-- [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document)
+- [Comics image processing: learning to segment text](https://dl.acm.org/citation.cfm?id=3011560) *MANPU '16 Workshop*
+- [Comic visualization on smartphones based on eye tracking](https://dl.acm.org/citation.cfm?id=3011553) *MANPU '16 Workshop*
+- [Designing a question-answering system for comic contents](https://dl.acm.org/citation.cfm?id=3011554) *MANPU '16 Workshop*
+- [Detection of comic books twin pages with a non-overlapping stitching method](https://dl.acm.org/citation.cfm?id=3011550) *MANPU '16 Workshop*
+- [Emotional arousal estimation while reading comics based on physiological signal analysis](https://dl.acm.org/citation.cfm?id=3011556) *MANPU '16 Workshop*
+- [Estimation of structure of four-scene comics by convolutional neural networks](https://dl.acm.org/citation.cfm?id=3011558) *MANPU '16 Workshop*
+- [Manga content analysis using physiological signals](https://dl.acm.org/citation.cfm?id=3011555) *MANPU '16 Workshop*
+- [Manga generator, a future of interactive manga media: invited talk paper](https://dl.acm.org/citation.cfm?id=3015156) *MANPU '16 Workshop*
+- [Manga109 dataset and creation of metadata](https://dl.acm.org/citation.cfm?id=3011551) *MANPU '16 Workshop*
 - [Object Detection for Comics using Manga109 Annotations](https://arxiv.org/abs/1803.08670)
+- [Retrieval of comic book images using context relevance information](https://dl.acm.org/citation.cfm?id=3011561) *MANPU '16 Workshop*
+- [Segmentation and indexation of complex objects in comic book images](https://tel.archives-ouvertes.fr/tel-01221308/document)
+- [Text-aware balloon extraction from manga](https://dl.acm.org/citation.cfm?id=2913253) *The Visual Computer: International Journal of Computer Graphics archive, Volume 32 Issue 4, April 2016, Pages 501-511* - Related to [moeka.me/mangaEditor](https://moeka.me/mangaEditor/)
+- [Toward speech text recognition for comic books](https://dl.acm.org/citation.cfm?id=3011557) *MANPU '16 Workshop*
 
 ### Anime & Animation
 
@@ -69,11 +83,12 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Recommender System
 
-- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf) *MANPU 2017 workshop, co-located with ICDAR 2017 in Kyoto on November 10, 2017*
+- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf) *MANPU '17 Workshop*
 
 ## Contribution Guidelines
 
-- For `Network Implementations` , use the following format:  `- [project-name](http://github-or-project-homepage.com) - Description`
-- For `Papers` , use the following format: `- [paper-title](http://paper-pdf-direct-link-(perferred)-or-library-page) *published-in-(optional)* - Description & project related (optional)`
-- Follow the original capitalization of the name of the project (no need to covert letter case)
-- Descriptions begin with a capital letter, and no need to end with a period
+- For `Network Implementations` , use the following format:  `- [project-name](http://github-or-project-homepage.com) - Description` .
+- For `Papers` , use the following format: `- [paper-title](http://paper-pdf-direct-link-(perferred)-or-library-page) *published-in-(optional)* - Description & project related (optional)` .
+- `Datasets`, `Networks Implementations` and `Papers` sorted by alphabetical.
+- Follow the original capitalization of the name of the project (no need to covert letter case).
+- Item descriptions begin with a capital letter, and no need to end with a period.
