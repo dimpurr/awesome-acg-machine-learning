@@ -17,6 +17,8 @@ Only for reference.
 ### ja-jp
 
 - [あの人の研究所](http://archive.fo/bFI3j#selection-17.0-20.0)
+- [Click Beetles](http://clickbeetles.sakura.ne.jp) - Click Beetlesは、エロゲーと人工知能の研究を行う同人サークルです
+	- Publications: [発行物一覧 - クリックビートルズ](http://clickbeetles.sakura.ne.jp/service.html)
 
 ### en-us
 
