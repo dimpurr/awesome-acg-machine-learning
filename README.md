@@ -14,8 +14,6 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 	- [MANPU 2017](http://manpu2017.imlab.jp/)
 - [SIG2D](http://sig2d.org/) - SIG2D (Special Interest Group on 2D Information Processing; しぐつーでぃー) は，二次元情報処理に強い興味を持つ研究者・技術者によるグループである
 	- Publications: [Publications - SIG2D](http://sig2d.org/publications/)
-- [Click Beetles](http://clickbeetles.sakura.ne.jp) - Click Beetlesは、エロゲーと人工知能の研究を行う同人サークルです
-	- Publications: [発行物一覧 - クリックビートルズ](http://clickbeetles.sakura.ne.jp/service.html)
 
 ## Datasets
 
