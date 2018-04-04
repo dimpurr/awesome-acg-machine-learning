@@ -4,7 +4,7 @@ A curated list of awesome machine learning resources related to anime, manga and
 
 Sharing, suggestions and contributions are always welcome. Please take a look at the [Contribution Guidelines](https://github.com/dimpurr/awesome-acg-machine-learning/tree/master#contribution-guidelines) first.
 
-Also you can take a look at some realted [news reports & blog posts](https://github.com/dimpurr/awesome-acg-machine-learning/blob/master/README.md) for reference.
+Also you can take a look at some related [news reports & blog posts](https://github.com/dimpurr/awesome-acg-machine-learning/blob/master/README.md) for reference.
 
 ## Commissions & Groups
 
@@ -37,7 +37,7 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 ### TensorFlow
 
 - [IllustrationGAN](https://github.com/tdrussell/IllustrationGAN) - A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations
-- [Tensorflow-ACGAN-Anime-Generation](https://github.com/ctwxdd/Tensorflow-ACGAN-Anime-Generation) - Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks" which related to [make.girls.moe](http://make.girls.moe)
+- [Tensorflow-ACGAN-Anime-Generation](https://github.com/ctwxdd/Tensorflow-ACGAN-Anime-Generation) - Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks" which is related to [make.girls.moe](https://make.girls.moe)
 
 ### PyTorch
 
@@ -85,7 +85,7 @@ Also you can take a look at some realted [news reports & blog posts](https://git
 
 ### Recommender System
 
-- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf) *MANPU '17 Workshop*
+- [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf) *MANPU '17 Workshop* which powers the [Mangaki](https://mangaki.fr) anime/manga recommendation website
 
 ## Contribution Guidelines
 
