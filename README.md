@@ -37,12 +37,15 @@ Also you can take a look at some related [news reports & blog posts](https://git
 ### TensorFlow
 
 - [IllustrationGAN](https://github.com/tdrussell/IllustrationGAN) - A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations
+- [style2paints](https://github.com/lllyasviel/style2paints)
 - [Tensorflow-ACGAN-Anime-Generation](https://github.com/ctwxdd/Tensorflow-ACGAN-Anime-Generation) - Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks" which is related to [make.girls.moe](https://make.girls.moe)
+
 
 ### PyTorch
 
 - [animeGAN](https://github.com/jayleicn/animeGAN) - A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing
 - [GirlsManifold](https://github.com/shaform/GirlsManifold) - An attempt to replicate [make.girls.moe](http://make.girls.moe) using PyTorch
+
 
 ## Papers
 
@@ -86,6 +89,12 @@ Also you can take a look at some related [news reports & blog posts](https://git
 ### Recommender System
 
 - [Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario](https://arxiv.org/pdf/1709.01584.pdf) *MANPU '17 Workshop* which powers the [Mangaki](https://mangaki.fr) anime/manga recommendation website
+
+## Style Transfer
+
+- [
+Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) *ACPR 2017*
+- [Two-Stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) *SIGGRAPH 2018*
 
 ## Contribution Guidelines
 
