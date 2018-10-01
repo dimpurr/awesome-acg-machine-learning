@@ -90,8 +90,7 @@ Also you can take a look at some related [news reports & blog posts](https://git
 
 ## Style Transfer
 
-- [
-Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) *ACPR 2017*
+- [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) *ACPR 2017*
 - [Two-Stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) *SIGGRAPH Asia 2018*
 
 ## Contribution Guidelines
